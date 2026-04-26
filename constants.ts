@@ -6,8 +6,8 @@ export const CONTACT_INFO = {
   name: "Studio Ceola Beauty",
   subtitle: "Eluana Ceola | Lash Designer & Educadora",
   whatsapp: "5547997431154",
-  address: "Rua Prefeito Raulino João Rosar, n°140, sala 7, Bairro Jardim América, Rio do Sul - SC",
-  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rua+Prefeito+Raulino+João+Rosar,+n°140,+sala+7,+Bairro+Jardim+América",
+  address: "Rua Prefeito Raulino João Rosar, n°190, Bairro Jardim América, Rio do Sul - SC",
+  mapsUrl: "https://maps.app.goo.gl/gAsE36qhPsjfc1oN6",
   instagram: "https://www.instagram.com/ceolalash"
 };
 
